@@ -9,7 +9,7 @@
 <h2> Instructions </h2>
 	<li> To play the game, open the .gba file in Visual Boy Advance  </li>
   <li> For developers: Most game logic can be found and edited in main.cpp and additional header files can be included for more functionalities </li>
-
+<p></p>
 ![instruction] (/game_play/instruction.png)
 
 

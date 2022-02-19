@@ -9,5 +9,7 @@
 <h2> Instructions </h2>
 	<li> To play the game, open the .gba file in Visual Boy Advance  </li>
   <li> For developers: Most game logic can be found and edited in main.cpp and additional header files can be included for more functionalities </li>
-<br>
+
+![alt text] (https://github.com/takoyakee/gba-catch-me/blob/main/game_play/stacking.png)
+
 <p> <em>(this game was developed in HAM in C as part of ME3241 Microprocessor Applications module in NUS) </em> </p>

@@ -10,8 +10,8 @@
 	<li> To play the game, open the .gba file in Visual Boy Advance  </li>
   <li> For developers: Most game logic can be found and edited in main.cpp and additional header files can be included for more functionalities </li>
 <h2> Some Screenshots! </h2>
-<img src="game_play/stacking.png" width=500 style="center"/>
-<img src="game_play/start screen.png" width=500 /> 
-<img src="game_play/instruction.png" width=500 /> 
+<img src="game_play/stacking.png" width=500 title="Stacking of ice cream"/>
+<img src="game_play/start screen.png" width=500 title="Start screen" /> 
+<img src="game_play/instruction.png" width=500 title="Instructions"/> 
 </br>
 <p> <em>(this game was developed in HAM in C as part of ME3241 Microprocessor Applications module in NUS) </em> </p>
